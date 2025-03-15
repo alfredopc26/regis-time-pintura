@@ -1,0 +1,8 @@
+{
+  "name": "RegisTime - Pintura",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "80c80e84"
+}
